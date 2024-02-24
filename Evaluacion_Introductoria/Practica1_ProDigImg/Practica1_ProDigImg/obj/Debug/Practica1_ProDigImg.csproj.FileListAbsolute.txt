@@ -1,0 +1,8 @@
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Practica1_ProDigImg\bin\Debug\Practica1_ProDigImg.exe.config
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Practica1_ProDigImg\bin\Debug\Practica1_ProDigImg.exe
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Practica1_ProDigImg\bin\Debug\Practica1_ProDigImg.pdb
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Practica1_ProDigImg\obj\Debug\Practica1_ProDigImg.csproj.AssemblyReference.cache
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Practica1_ProDigImg\obj\Debug\Practica1_ProDigImg.csproj.SuggestedBindingRedirects.cache
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Practica1_ProDigImg\obj\Debug\Practica1_ProDigImg.csproj.CoreCompileInputs.cache
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Practica1_ProDigImg\obj\Debug\Practica1_ProDigImg.exe
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Practica1_ProDigImg\obj\Debug\Practica1_ProDigImg.pdb

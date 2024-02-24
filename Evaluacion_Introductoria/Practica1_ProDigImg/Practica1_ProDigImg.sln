@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica1_ProDigImg", "Practica1_ProDigImg\Practica1_ProDigImg.csproj", "{30A7A063-5FB4-4D16-869F-3C7053444D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cruds", "Cruds\Cruds.csproj", "{6C3C4D24-1382-45D9-9624-C8B560493D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A7A063-5FB4-4D16-869F-3C7053444D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A7A063-5FB4-4D16-869F-3C7053444D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A7A063-5FB4-4D16-869F-3C7053444D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A7A063-5FB4-4D16-869F-3C7053444D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3C4D24-1382-45D9-9624-C8B560493D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3C4D24-1382-45D9-9624-C8B560493D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3C4D24-1382-45D9-9624-C8B560493D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3C4D24-1382-45D9-9624-C8B560493D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E672FF9-0949-489C-B78B-0779C58B6F49}
+	EndGlobalSection
+EndGlobal

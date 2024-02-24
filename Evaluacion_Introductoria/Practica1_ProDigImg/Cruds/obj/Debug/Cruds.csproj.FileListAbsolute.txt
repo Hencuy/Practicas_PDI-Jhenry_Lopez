@@ -1,0 +1,8 @@
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Cruds\bin\Debug\Cruds.exe.config
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Cruds\bin\Debug\Cruds.exe
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Cruds\bin\Debug\Cruds.pdb
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Cruds\obj\Debug\Cruds.csproj.AssemblyReference.cache
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Cruds\obj\Debug\Cruds.csproj.SuggestedBindingRedirects.cache
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Cruds\obj\Debug\Cruds.csproj.CoreCompileInputs.cache
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Cruds\obj\Debug\Cruds.exe
+D:\5toSemestre\Proce Digital Imagenes\Practica1_ProDigImg\Cruds\obj\Debug\Cruds.pdb
